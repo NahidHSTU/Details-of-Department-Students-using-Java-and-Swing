@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ECE-23:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ECE_23_jar</output-path>
+    <root id="archive" name="ECE-23.jar">
+      <element id="module-output" name="ECE-23" />
+    </root>
+  </artifact>
+</component>
